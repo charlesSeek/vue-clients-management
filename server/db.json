@@ -1,0 +1,35 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "json-server",
+			"author": "typicode"
+		}
+	],
+	"comments": [
+		{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"users": [
+		{
+			"id": "V20190324121645AP",
+			"username": "username1",
+			"contacts": "test user",
+			"contactsEmail": "cuishucheng@gmail.com",
+			"cityName": "melbourne",
+			"areaName": "",
+			"address": "",
+			"roleId": "",
+			"roleName": "admin",
+			"status": 1,
+			"createTime": "2019-03-24 15:16:45",
+			"updateTime": "2019-03-24 15:16:45"
+		}
+	]
+}
